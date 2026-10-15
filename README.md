@@ -52,6 +52,15 @@ As on Windows, upload a game right after it ends, before you start another one. 
 
 Pop!_OS with the COSMIC desktop, Steam (deb), Proton 10.0, CivReplay 0.1.15. Reports from other setups are welcome. Open an issue.
 
+## Credits
+
+All the real work here is theirs:
+
+- [civgg](https://civgg-five.vercel.app/), the Civ VI stats site, by its creators.
+- [CivReplay](https://github.com/bartsake/civreplay-releases), the uploader app, by **bartsake**.
+
+This repo only adds a script to run CivReplay on Linux. Please report problems with the Linux setup here, not to them.
+
 ## License
 
 MIT for this script. CivReplay itself is a separate program with its own terms.
